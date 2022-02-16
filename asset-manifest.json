@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/gademic/static/css/main.4152c3d3.css",
+    "main.js": "/gademic/static/js/main.77a2b321.js",
+    "index.html": "/gademic/index.html",
+    "main.4152c3d3.css.map": "/gademic/static/css/main.4152c3d3.css.map",
+    "main.77a2b321.js.map": "/gademic/static/js/main.77a2b321.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4152c3d3.css",
+    "static/js/main.77a2b321.js"
+  ]
+}
